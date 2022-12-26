@@ -40,7 +40,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 During the time of our analysis, we initially did EDA on all the features of our datset. We first analysed our dependent variable, 'Rented Bike Count' and also transformed it. Next we analysed categorical variable and dropped the variable who had majority of one class, we also analysed numerical variable, found out the correlation, distribution and their relationship with the dependent variable. We also removed some numerical features who had mostly 0 values and hot encoded the categorical variables.
 
-Next we implemented 7 machine learning algorithms- 
+Next we implemented 8 machine learning algorithms- 
 
 ### Model Training
 
